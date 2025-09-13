@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 50daad48ceed1d35ec0e20c57cc8641cd6f308ce
-def main():
-    print("Hello from sch2vec!")
-
-
-if __name__ == "__main__":
-    main()
-<<<<<<< HEAD
-=======
 import cv2, os, time
 import numpy as np
 import mss
@@ -103,7 +91,3 @@ while True:
     print(point_matrix)
     # Refreshing window all time
     cv2.waitKey(a)
-
->>>>>>> 27ea953 ([Create] initial project setup for sch2vec)
-=======
->>>>>>> 50daad48ceed1d35ec0e20c57cc8641cd6f308ce
