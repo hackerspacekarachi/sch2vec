@@ -1,0 +1,16 @@
+[project]
+name = "sch2vec"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+<<<<<<< HEAD
+dependencies = []
+=======
+dependencies = [
+    "mss>=10.1.0",
+    "numpy>=2.0.2",
+    "opencv-python>=4.11.0.86",
+    "pyautogui>=0.9.54",
+]
+>>>>>>> 27ea953 ([Create] initial project setup for sch2vec)
