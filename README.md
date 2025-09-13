@@ -22,7 +22,6 @@ Please ensure you have uv installed before setting up the project.
 
 ## Status
 
-- 🚧 Work in progress  
 - Functionality is limited and subject to change  
 - Contributions, feedback, and experimentation are welcome
 
