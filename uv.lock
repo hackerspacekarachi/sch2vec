@@ -1,9 +1,6 @@
 version = 1
 revision = 3
 requires-python = ">=3.9"
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 resolution-markers = [
     "python_full_version >= '3.12' and sys_platform == 'darwin'",
     "python_full_version >= '3.12' and platform_machine == 'aarch64' and sys_platform == 'linux'",
@@ -514,17 +511,11 @@ sdist = { url = "https://files.pythonhosted.org/packages/a7/2f/612049b8601e81008
 wheels = [
     { url = "https://files.pythonhosted.org/packages/9f/a4/11ad29100060af56408ed084dca76a16d2ce8eb31b75081bfc0eec45d755/rubicon_objc-0.5.2-py3-none-any.whl", hash = "sha256:829b253c579e51fc34f4bb6587c34806e78960dcc1eb24e62b38141a1fe02b39", size = 63512, upload-time = "2025-08-07T06:12:23.766Z" },
 ]
->>>>>>> 27ea953 ([Create] initial project setup for sch2vec)
-=======
->>>>>>> 50daad48ceed1d35ec0e20c57cc8641cd6f308ce
 
 [[package]]
 name = "sch2vec"
 version = "0.1.0"
 source = { virtual = "." }
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 dependencies = [
     { name = "mss" },
     { name = "numpy", version = "2.0.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.10'" },
@@ -541,6 +532,3 @@ requires-dist = [
     { name = "opencv-python", specifier = ">=4.11.0.86" },
     { name = "pyautogui", specifier = ">=0.9.54" },
 ]
->>>>>>> 27ea953 ([Create] initial project setup for sch2vec)
-=======
->>>>>>> 50daad48ceed1d35ec0e20c57cc8641cd6f308ce
